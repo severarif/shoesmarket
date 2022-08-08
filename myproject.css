@@ -1,0 +1,69 @@
+.container{
+    width: 60%;
+    margin: 0% 35%;
+}
+.nikeman , .nikewoman , .adidasman , .adidaswoman , .pumaman , .pumawoman , .hummelman , .hummelwoman
+{
+    width: 350px;
+    height: 480px;
+    margin: 0px 65px;
+}
+#nikelogo{
+    width: 900px; ;
+    height:500px ;
+   margin: auto;
+   display: block;
+   margin-bottom: 100px;
+}
+#adidaslogo , #pumalogo , #hummellogo{
+    height: 500px;
+    display: block;
+    margin: auto;
+    padding: 200px 0px 50px 0;
+}
+#pumalogo{
+    height: 500px;
+    width: 800px;
+    margin: auto;
+    display: block;
+ }
+ #hummellogo{
+    height: 500px;
+    margin: auto;
+    display: block;
+
+ }
+#niketable , #adidastable , #pumatable , #hummeltable{
+    font-size: 1.5rem;
+}
+#niketable h3 , #adidastable h3 , #pumatable h3 , #hummeltable h3 {
+    padding: 0px 20px;
+    font-size: 1.5rem;
+}
+a{
+    font-size: 1.75rem;
+    text-decoration: none;
+  background-color: beige;
+  color: gray;
+}
+h1{
+    background-image: url(https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28313.jpg?w=360);
+    font-size: 8rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: url(ANUDRG_);
+    color: white;
+    padding: 150px 0px;
+    text-align: center;
+}
+h2{
+    background-color: black;
+    color: white;
+    margin: auto;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+   
+  
